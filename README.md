@@ -3,9 +3,6 @@
 
 That application is an email sender, made with Python.
 
-For use the app, you have to change the fields "From", "To", "Password", at the file "py.py".
-
-
 ## For use:
 For use the app, you have to change the fields "From", "To", "Password", at the file "py.py".
 
