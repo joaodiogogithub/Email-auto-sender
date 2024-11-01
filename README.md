@@ -1,4 +1,4 @@
-# Email auto-sender
+# Python-email_sender
 
 For use the app, you have to change the fields "From", "To", "Senha".
 
