@@ -37,7 +37,6 @@ Ubuntu distro
 - [joaodiogogithub](https://github.com/joaodiogogithub)
 
 
-![Logo](![my_logo](https://github.com/user-attachments/assets/6b179f7d-4b17-4d10-aa7a-739d65c656c0)
-)
+![Logo](![my_logo](https://github.com/user-attachments/assets/109344a7-9572-446e-a0f0-575a4239ba2f))
 
 
